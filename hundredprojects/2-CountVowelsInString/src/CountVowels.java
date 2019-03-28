@@ -9,7 +9,7 @@ public class CountVowels{
     public static void main(String[] args) {
         
         // String to be used
-        String string = "Stella";
+        String string = "Star";
 
         // Instance a new Object because of static
         CountVowels vow = new CountVowels();

@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountVowels",
+            "request": "launch",
+            "mainClass": "CountVowels"
+        }
+    ]
+}
